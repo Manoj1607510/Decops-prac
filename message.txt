@@ -1,1 +1,4 @@
-Hello from master branch
+<<<<<<< HEAD
+Hello from final version
+=======
+
